@@ -1,9 +1,9 @@
-<meta name="description" content="ChatGPT中文版镜像网站大全，支持GPT-4，永久免费，无需翻墙。">
+<meta name="description" content="ChatGPT中文版镜像网站大全，支持GPT-o1-pro,支持GPT-4，永久免费，无需翻墙。">
 <meta name="keywords" content="ChatGPT中文版, ChatGPT镜像网站, GPT-4, GPT-o1">
 <meta name="author" content="nasdli">
 
 
-# 2024国内ChatGPT中文版镜像网站推荐：免费、高速、支持GPT-o1-pro，GPT-4
+# ChatGPT中文版：国内直连，无需翻墙，支持GPT-o1-pro，GPT-4
 
 > **更新时间：2024/12/09**  
 > **作者：nasdli**  
@@ -18,7 +18,7 @@
 
 | 网站名称             | 支持版本         | 免费额度   | 稳定性 | 注册方式         | 功能亮点             |
 |----------------------|------------------|-----------|-------|------------------|----------------------|
-| [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-o1-pro  | 有         | 高     | 国内邮箱注册      | 支持 GPT-4o 和绘图功能，速度极快 |
+| [snakegpt.work](https://snakegpt.work) | GPT-4  | 有         | 高     | 国内邮箱注册      | 支持 GPT-4o 和绘图功能，速度极快 |
 | [gptcat.net](https://gptcat.net)       | GPT-4, GPT-o1-pro  | 有         | 高     | 国内邮箱注册      | 语音交互强，支持 Claude3 和 GPT-o1 |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47)   | GPT-4             | 有         | 高     | 国内邮箱注册      | 开发者友好，提供稳定的 API 服务 |
 | [gptdog.online](https://gptdog.online) | GPT-3.5           | 有         | 中     | 国内邮箱注册      | 完全免费，新手友好，适合轻量使用 |
