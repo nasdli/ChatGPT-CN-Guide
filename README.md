@@ -1,3 +1,8 @@
+<meta name="description" content="ChatGPT中文版镜像网站大全，支持GPT-4，永久免费，无需翻墙。">
+<meta name="keywords" content="ChatGPT中文版, ChatGPT镜像网站, GPT-4, GPT-o1">
+<meta name="author" content="nasdli">
+
+
 # 2024国内ChatGPT中文版镜像网站推荐：免费、高速、支持GPT-o1-pro，GPT-4
 
 > **更新时间：2024/12/09**  
